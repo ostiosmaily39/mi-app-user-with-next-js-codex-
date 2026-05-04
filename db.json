@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Emily Lacrontte",
+      "email": "vestidosdejardin@gmail.com",
+      "age": 19,
+      "id": 1
+    },
+    {
+      "name": "Thomas Ostios",
+      "email": "RayoMacqueen@gmail.com",
+      "age": 17,
+      "id": 2
+    },
+    {
+      "name": "Magnus Lacontte",
+      "email": "elreyhumilde@gmail.com",
+      "age": 26,
+      "id": 3
+    }
+  ]
+}
